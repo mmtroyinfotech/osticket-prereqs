@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-https://imgur.com/7YxreZW
+<img src="https://imgur.com/7YxreZW.png"/>
 
 </p>
 <p>

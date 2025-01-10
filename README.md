@@ -75,6 +75,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://imgur.com/QuDN4oC.png"/>
 </p>
+<p>
+<img src="https://imgur.com/3OLQaHv.png"/>
+</p>
+<p>
+<img src="https://imgur.com/yuJPjbr.png"/>
+</p>
 
 <h2>osTicket Installation</h2>
 

@@ -67,6 +67,24 @@ In my class lab I was provided with links to download osTicket. But just follow 
 <img src="https://imgur.com/E9wNvKq.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://imgur.com/xKHzc77.png"/>
+</p>
+<p>
+<img src="https://imgur.com/2uu5UM4.png"/>
+</p>
+<p>
+<img src="https://imgur.com/9n15mwQ.png"/>
+</p>
+<p>
+<img src="https://imgur.com/C5ztdWN.png"/>
+</p>
+<p>
+<img src="https://imgur.com/SQoayij.png"/>
+</p>
+<p>
+<img src="https://imgur.com/3KklzpS.png"/>
+</p>
+<p>
+<img src="https://imgur.com/QuDN4oC.png"/>
 </p>
 <br />

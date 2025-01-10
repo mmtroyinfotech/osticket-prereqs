@@ -8,7 +8,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-  https://github.com/mmtroyinfotech/azure-resource-group-virtual-machines
 - Remote Desktop
 - Internet Information Services (IIS)
 
@@ -18,13 +17,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Azure Account: You need an active Microsoft Azure account to create and      manage VMs.
-- Resource Group: Create a new resource group in Azure to organize your        resources.
-- Virtual Network (VNet): Allow the VM setup to create a new VNet or use an    existing one.
-- Windows 10 VM: Create a Windows 10 VM with 2-4 virtual CPUs.
-- VM Credentials: Prepare the VM with a username (e.g., labuser) and a         password (e.g., osTicketPassword1!).
-- Internet Access: Ensure the VM has internet access to download necessary      software.
-- Remote Desktop Connection: Install Microsoft RD Client (Remote Desktop) to   connect to the VM.
+- Create a Azure Virtual Machine: https://github.com/mmtroyinfotech/azure-resource-group-virtual-machines
+- Internet Access: Ensure the VM has internet access to download necessary software.
+- Remote Desktop Connection: Install Microsoft RD Client (Remote Desktop) to connect to the VM.
 - IIS (Internet Information Services): Install IIS on the VM.
 - PHP Manager for IIS: Download and install PHP Manager for IIS.
 - Rewrite Module: Download and install the rewrite module for IIS.

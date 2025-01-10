@@ -32,22 +32,22 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 - Type Remote Desktop in the start menu and click remote desktop.
-- Input Virtual Machine public address into Remote Desktop. Click Connect.
-- Input Username and Password created when vm was created. Then OK
 - VM will load up.
+- All the rest of the steps will done in Virtual Machine.
 <p>
 <img src="https://imgur.com/GJKCqN8.png"/>
 </p>
 <p>
 <img src="https://imgur.com/byDkS9t.png"/>
 </p>
+- Input Virtual Machine public address into Remote Desktop. Click Connect.
+- Input Username and Password created when vm was created. Then OK
 <p>
 <img src="https://imgur.com/fuyoNxp.png"/>
 </p>
 <p>
 <img src="https://imgur.com/h0YhpCP.png"/>
 </p>
-All the rest of the steps will done in Virtual Machine.
 <br />
 
 <p>

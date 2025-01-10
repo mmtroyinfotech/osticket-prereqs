@@ -47,6 +47,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://imgur.com/h0YhpCP.png"/>
 </p>
+All the rest of the steps will done in Virtual Machine.
 <br />
 
 <p>

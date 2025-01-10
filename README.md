@@ -85,7 +85,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>osTicket Installation</h2>
 
 <p>
-In my class lab I was provided with links to download osTicket. But just follow along for now.
+In my class lab I was provided with links to download osTicket. And it's packages But just follow along for now.
 </p>
 - 
 <p>

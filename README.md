@@ -52,21 +52,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h2>osTicket Installation</h2>
-
-<p>
-In my class lab I was provided with links to download osTicket. But just follow along for now.
-</p>
-- 
-<p>
-<img src="https://imgur.com/Eg4rkvq.png"/>
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/E9wNvKq.png"/>
-</p>
-
 <h2>Install / Enable IIS in Windows WITH CGI</h2>
 
 <p>
@@ -90,4 +75,21 @@ In my class lab I was provided with links to download osTicket. But just follow 
 <p>
 <img src="https://imgur.com/QuDN4oC.png"/>
 </p>
+
+<h2>osTicket Installation</h2>
+
+<p>
+In my class lab I was provided with links to download osTicket. But just follow along for now.
+</p>
+- 
+<p>
+<img src="https://imgur.com/Eg4rkvq.png"/>
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/E9wNvKq.png"/>
+</p>
+
+<h2>Install / Enable IIS in Windows WITH CGI</h2>
 <br />

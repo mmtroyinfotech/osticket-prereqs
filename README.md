@@ -32,8 +32,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 - Type Remote Desktop in the start menu and click remote desktop.
-- VM will load up.
-- All the rest of the steps will done in Virtual Machine.
 <p>
 <img src="https://imgur.com/GJKCqN8.png"/>
 </p>
@@ -45,6 +43,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://imgur.com/fuyoNxp.png"/>
 </p>
+- VM will load up.
+- All the rest of the steps will done in Virtual Machine.
 <p>
 <img src="https://imgur.com/h0YhpCP.png"/>
 </p>

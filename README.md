@@ -67,6 +67,8 @@ In my class lab I was provided with links to download osTicket. But just follow 
 <img src="https://imgur.com/E9wNvKq.png"/>
 </p>
 
+<h2>Install / Enable IIS in Windows WITH CGI</h2>
+
 <p>
 <img src="https://imgur.com/xKHzc77.png"/>
 </p>

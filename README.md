@@ -44,9 +44,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://imgur.com/fuyoNxp.png"/>
 </p>
-<p>
-<img src="https://imgur.com/a/0AzjYSF"/>
-</p>
 <br />
 
 <p>

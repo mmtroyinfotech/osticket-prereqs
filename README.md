@@ -66,6 +66,7 @@ In my class lab I was provided with links to download osTicket. But just follow 
 <p>
 <img src="https://imgur.com/E9wNvKq.png"/>
 </p>
+
 <p>
 <img src="https://imgur.com/xKHzc77.png"/>
 </p>

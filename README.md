@@ -87,10 +87,25 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 In my class lab I was provided with links to download osTicket and it's packages. But just follow along for now.
 </p>
-- 
+- This is the osTicket folder extracted.
 <p>
 <img src="https://imgur.com/Eg4rkvq.png"/>
+</p>
+- These of the packages
+<p>
 <img src="https://imgur.com/Pm41j62.png"/>
+</p>
+
+- HeidiSQL_12.3.0.6589_Setup
+- mysql-5.5.62-win32
+- osTicket-v1.15.8
+- php-7.3.8-nts-Win32-VC15-x86
+- PHPManagerForIIS_V1.5.0
+- rewrite_amd64_en-US
+- VC_redist.x86
+  
+<p>
+I may make a video going through each file and installing them.
 </p>
 <br />
 

@@ -47,6 +47,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Install / Enable IIS in Windows WITH CGI</h2>
 
+
+- Go to the Start Menu and type control Panel and click Control Panel
 <p>
 <img src="https://imgur.com/xKHzc77.png"/>
 </p>
@@ -82,7 +84,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://imgur.com/Eg4rkvq.png"/>
 </p>
 
-- These of the packages
+- These are the packages
 <p>
 <img src="https://imgur.com/Pm41j62.png"/>
 </p>

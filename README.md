@@ -97,8 +97,6 @@ In my class lab I was provided with links to download osTicket and it's packages
 <img src="https://imgur.com/E9wNvKq.png"/>
 </p>
 
-<img src="https://imgur.com/yHuRlZJ.png"/>
-
 Install PHP Manager For IIS
 
 <p>
@@ -108,4 +106,6 @@ Install PHP Manager For IIS
 <p>
 <img src="https://imgur.com/hCNwf2h.png"/>
 </p>
+
+<img src="https://imgur.com/yHuRlZJ.png"/>
 <br />

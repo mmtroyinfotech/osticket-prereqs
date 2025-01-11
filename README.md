@@ -64,7 +64,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://imgur.com/C5ztdWN.png"/>
 </p>
 
-- On the left click Turn Window Features on and off.
+- On the left click Turn Window Features on and off, and follow the screenshots from there.
 <p>
 <img src="https://imgur.com/SQoayij.png"/>
 </p>

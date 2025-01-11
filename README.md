@@ -112,4 +112,7 @@ Install PHP Manager For IIS
 <img src="https://imgur.com/UQzGB5U.png"/>
 
 - Create the directory C:\PHP
+<p>
+
+</p>
 <br />

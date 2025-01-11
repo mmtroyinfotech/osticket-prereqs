@@ -109,10 +109,8 @@ In my class lab I was provided with links to download osTicket and it's packages
 <p>6. osTicket-v1.15.8 is a maintenance release of the osTicket support ticketing system, which addresses security vulnerabilities and introduces various improvements and bug fixes.</p>
 
 <p>7. HeidiSQL is a user-friendly tool for managing databases, allowing you to connect, browse, edit, and query your databases efficiently.</p>
-  
-<p><img src="https://imgur.com/n839Ura.png"/></p>
-
 <br />
+<p><img src="https://imgur.com/n839Ura.png"/></p>
 
 <p>
 I may make a video going through each file and installing them. There will be to many slides if I was to screenshot all of the process.

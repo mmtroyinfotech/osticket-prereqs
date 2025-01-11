@@ -108,4 +108,6 @@ Install PHP Manager For IIS
 </p>
 
 <img src="https://imgur.com/yHuRlZJ.png"/>
+<img src="https://imgur.com/3pxKwKk.png"/>
+<img src="https://imgur.com/UQzGB5U.png"/>
 <br />

@@ -110,13 +110,14 @@ In my class lab I was provided with links to download osTicket and it's packages
 
 <p>7. HeidiSQL is a user-friendly tool for managing databases, allowing you to connect, browse, edit, and query your databases efficiently.</p>
 
-<img src="https://imgur.com/TfFlflY.png"/>
-<img src="https://imgur.com/giNxdWR.png"/>
-<img src="https://imgur.com/3lwlrCJ.png"/>
-<img src="https://imgur.com/n839Ura.png"/>
-<img src="https://imgur.com/ZlNPUQy.png"/>
-<img src="https://imgur.com/EeEK9s2.png"/>
-<img src="https://imgur.com/OsTyQZz.png"/>
+<p><img src="https://imgur.com/TfFlflY.png"/></p>
+<p><img src="https://imgur.com/giNxdWR.png"/></p>
+<p><img src="https://imgur.com/3lwlrCJ.png"/></p>
+The HeidiSQL is used for actual osTicket Database.
+<p><img src="https://imgur.com/n839Ura.png"/></p>
+<p><img src="https://imgur.com/ZlNPUQy.png"/></p>
+<p><img src="https://imgur.com/EeEK9s2.png"/></p>
+<p><img src="https://imgur.com/OsTyQZz.png"/></p>
 <br />
 
 <p>

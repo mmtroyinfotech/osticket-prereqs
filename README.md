@@ -98,8 +98,13 @@ In my class lab I was provided with links to download osTicket and it's packages
 
 - HeidiSQL_12.3.0.6589_Setup
 <p>HeidiSQL is a user-friendly tool for managing databases, allowing you to connect, browse, edit, and query your databases efficiently.</p>
+
 - mysql-5.5.62-win32
+<p>mysql-5.5.62-win3 is the installer for MySQL Community Server version 5.5.62, a widely-used open-source relational database management system for Windows.</p>
+
 - osTicket-v1.15.8
+<p>osTicket-v1.15.8 is a maintenance release of the osTicket support ticketing system, which addresses security vulnerabilities and introduces various improvements and bug fixes.</p>
+
 - php-7.3.8-nts-Win32-VC15-x86
 - PHPManagerForIIS_V1.5.0
 - rewrite_amd64_en-US

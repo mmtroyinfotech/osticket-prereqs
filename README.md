@@ -21,15 +21,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Internet Access: Ensure the VM has internet access to download necessary software.
 - Remote Desktop Connection: Install Microsoft RD Client (Remote Desktop) to connect to the VM.
 - IIS (Internet Information Services): Install IIS on the VM.
-- PHP Manager for IIS: Download and install PHP Manager for IIS.
-- Rewrite Module: Download and install the rewrite module for IIS.
-- PHP 7.3: Download and install PHP 7.3.
-- VC Redist: Install VC Redist (Visual C++ Redistributable) for PHP.
-- MySQL 5.5: Download and install MySQL 5.5.
-- osTicket Files: Download osTicket from the official website.
-- Permissions: Set appropriate permissions for osTicket files and directories
 
-<h2>Installation Steps</h2>
+<h2>Remote Desktop</h2>
 
 - Type Remote Desktop in the start menu and click remote desktop.
 <p>
@@ -83,10 +76,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 
 <h2>osTicket Installation</h2>
-
-<p>
-In my class lab I was provided with links to download osTicket and it's packages. But just follow along for now.
-</p>
 
 - This is the osTicket folder extracted.
 <p>

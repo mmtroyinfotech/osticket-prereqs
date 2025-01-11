@@ -80,7 +80,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://imgur.com/3OLQaHv.png"/>
 </p>
 
-- IIS turns your computer into a web server. i thinl that's pretty cool.
+- IIS turns your computer into a web server. I think that's pretty cool.
 <p>
 <img src="https://imgur.com/yuJPjbr.png"/>
 </p>

@@ -106,10 +106,17 @@ In my class lab I was provided with links to download osTicket and it's packages
 <p>osTicket-v1.15.8 is a maintenance release of the osTicket support ticketing system, which addresses security vulnerabilities and introduces various improvements and bug fixes.</p>
 
 - php-7.3.8-nts-Win32-VC15-x86
-- PHPManagerForIIS_V1.5.0
-- rewrite_amd64_en-US
-- VC_redist.x86
+<p>osTicket-v1.15.8 is a maintenance release of the osTicket support ticketing system, which addresses security vulnerabilities and introduces various improvements and bug fixes.</p>
   
+- PHPManagerForIIS_V1.5.0
+<p>osTicket-v1.15.8 is a maintenance release of the osTicket support ticketing system, which addresses security vulnerabilities and introduces various improvements and bug fixes.</p>
+  
+- rewrite_amd64_en-US
+<p>osTicket-v1.15.8 is a maintenance release of the osTicket support ticketing system, which addresses security vulnerabilities and introduces various improvements and bug fixes.</p>
+  
+- VC_redist.x86
+<p>osTicket-v1.15.8 is a maintenance release of the osTicket support ticketing system, which addresses security vulnerabilities and introduces various improvements and bug fixes.</p>
+
 <p>
 I may make a video going through each file and installing them.
 </p>

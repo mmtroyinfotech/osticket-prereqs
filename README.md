@@ -97,6 +97,7 @@ In my class lab I was provided with links to download osTicket and it's packages
 </p>
 
 - HeidiSQL_12.3.0.6589_Setup
+  HeidiSQL is a user-friendly tool for managing databases, allowing you to connect, browse, edit, and      query your databases efficiently.
 - mysql-5.5.62-win32
 - osTicket-v1.15.8
 - php-7.3.8-nts-Win32-VC15-x86

@@ -56,7 +56,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://imgur.com/2uu5UM4.png"/>
 </p>
 
-- Select Programs
+- Select Programs and next click Uninstall Programs
 <p>
 <img src="https://imgur.com/9n15mwQ.png"/>
 </p>

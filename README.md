@@ -90,6 +90,7 @@ In my class lab I was provided with links to download osTicket and it's packages
 - 
 <p>
 <img src="https://imgur.com/Eg4rkvq.png"/>
+<img src="https://imgur.com/Pm41j62.png"/>
 </p>
 <br />
 

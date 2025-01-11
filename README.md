@@ -110,10 +110,16 @@ In my class lab I was provided with links to download osTicket and it's packages
 
 <p>VC_redist.x86 is the installer for the Visual C++ Redistributable for Visual Studio 2015, 2017, 2019, and 2022, which installs the runtime libraries required for running applications built with these versions of Visual Studio on 32-bit Windows systems.</p>
 
+<img src="https://imgur.com/TfFlflY.png"/>
+<img src="https://imgur.com/giNxdWR.png"/>
+<img src="https://imgur.com/3lwlrCJ.png"/>
+<img src="https://imgur.com/n839Ura.png"/>
+<img src="https://imgur.com/ZlNPUQy.png"/>
+<img src="https://imgur.com/EeEK9s2.png"/>
+<img src="https://imgur.com/OsTyQZz.png"/>
+<br />
+
 <p>
 I may make a video going through each file and installing them. There will be to many slides if I was to screenshot all of the process.
 </p>
-<br />
-
-
 <br />

@@ -87,10 +87,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 In my class lab I was provided with links to download osTicket and it's packages. But just follow along for now.
 </p>
+
 - This is the osTicket folder extracted.
 <p>
 <img src="https://imgur.com/Eg4rkvq.png"/>
 </p>
+
 - These of the packages
 <p>
 <img src="https://imgur.com/Pm41j62.png"/>

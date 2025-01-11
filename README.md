@@ -110,10 +110,12 @@ In my class lab I was provided with links to download osTicket and it's packages
 
 <p>7. HeidiSQL is a user-friendly tool for managing databases, allowing you to connect, browse, edit, and query your databases efficiently.</p>
 
+- PHPManagerForIIS_V1.5.0 turns your browser into a server.
+  
 <p><img src="https://imgur.com/TfFlflY.png"/></p>
 <p><img src="https://imgur.com/giNxdWR.png"/></p>
-<p><img src="https://imgur.com/3lwlrCJ.png"/></p>
 The HeidiSQL is used for actual osTicket Database.
+<p><img src="https://imgur.com/3lwlrCJ.png"/></p>
 <p><img src="https://imgur.com/n839Ura.png"/></p>
 <p><img src="https://imgur.com/ZlNPUQy.png"/></p>
 <p><img src="https://imgur.com/EeEK9s2.png"/></p>

@@ -68,6 +68,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://imgur.com/SQoayij.png"/>
 </p>
+
+- Scroll down until you find Internet Information Service. Check it.
 <p>
 <img src="https://imgur.com/3KklzpS.png"/>
 </p>

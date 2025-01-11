@@ -55,6 +55,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 <img src="https://imgur.com/2uu5UM4.png"/>
 </p>
+
+- Select Programs
 <p>
 <img src="https://imgur.com/9n15mwQ.png"/>
 </p>

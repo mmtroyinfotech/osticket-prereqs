@@ -96,25 +96,18 @@ In my class lab I was provided with links to download osTicket and it's packages
 <img src="https://imgur.com/Pm41j62.png"/>
 </p>
 
-- HeidiSQL_12.3.0.6589_Setup
 <p>HeidiSQL is a user-friendly tool for managing databases, allowing you to connect, browse, edit, and query your databases efficiently.</p>
 
-- mysql-5.5.62-win32
 <p>mysql-5.5.62-win3 is the installer for MySQL Community Server version 5.5.62, a widely-used open-source relational database management system for Windows.</p>
 
-- osTicket-v1.15.8
 <p>osTicket-v1.15.8 is a maintenance release of the osTicket support ticketing system, which addresses security vulnerabilities and introduces various improvements and bug fixes.</p>
 
-- php-7.3.8-nts-Win32-VC15-x86
 <p>php-7.3.8-nts-Win32-VC15-x86 is the installer file for PHP version 7.3.8, which is a non-thread-safe (NTS) build for 32-bit Windows systems, compiled with Visual C++ 15 (VS2017).</p>
-  
-- PHPManagerForIIS_V1.5.0
+
 <p>PHPManagerForIIS_V1.5.0 is a tool for managing PHP installations on Internet Information Services (IIS). It allows you to register PHP with IIS, configure PHP settings, enable or disable PHP extensions, and manage multiple PHP versions on the same server.</p>
-  
-- rewrite_amd64_en-US
+
 <p>rewrite_amd64_en-US is the installer file for the URL Rewrite Module version 2.0 for 64-bit Windows systems, which allows web administrators to create rules for URL rewriting and redirection on IIS.</p>
-  
-- VC_redist.x86
+
 <p>VC_redist.x86 is the installer for the Visual C++ Redistributable for Visual Studio 2015, 2017, 2019, and 2022, which installs the runtime libraries required for running applications built with these versions of Visual Studio on 32-bit Windows systems.</p>
 
 <p>

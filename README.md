@@ -87,7 +87,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>osTicket Installation</h2>
 
-- ### [osTicket - Prerequisites and Installation](https://www.youtube.com/watch?v=9M4DbGXr06Y)
+- ### [Youtube: osTicket - Prerequisites and Installation](https://www.youtube.com/watch?v=9M4DbGXr06Y)
 
 <p>1. PHPManagerForIIS_V1.5.0 is a tool for managing PHP installations on Internet Information Services (IIS). It allows you to register PHP with IIS, configure PHP settings, enable or disable PHP extensions, and manage multiple PHP versions on the same server.</p>
 
